@@ -1,6 +1,8 @@
 # Making good figures
 
 - Basic principles
+- Rougier, Droettboom and Bourne's "Ten Simple Rules for Better Figures"
+https://doi.org/10.1371/journal.pcbi.1003833 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833&trk=public_post_comment-text
 - Gelman's "practice what we preach" paper https://www.tandfonline.com/doi/pdf/10.1198/000313002317572790?casa_token=OI5yfzAyv-4AAAAA:bm7s_XxOomwPtCaCnD-91q7hdcwY52cKCrt5rMaWVYUzJ9KoQOZZTkS6z7VLq1Bo5lJOfljOpCzN
 - Technical recommendations (tools, etc)
 - Recommendations for style
