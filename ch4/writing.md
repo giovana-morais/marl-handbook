@@ -264,6 +264,7 @@ With `\citep{brown1985}`, you would get:
   the size of the content inside them.
 - Use `\ref` (or `\cref` with the `cleveref` package, or `\eqref`) for all references to figures, tables, and equations.  This ensures that all numbering stays consistent as things change.
 - Use [`booktabs`](https://mirrors.ibiblio.org/pub/mirrors/CTAN/macros/latex/contrib/booktabs/booktabs.pdf) and do not include extraneous lines in tables (`tabular` environments).  Use `\toprule`, `\midrule`, and `\bottomrule` to separate the header from the body, and the body from the footer.
-- Don't copy-paste unformatted data into tables.  In Python (with Pandas) you can
+- Don't copy-paste unformatted data into tables.  In Python (with Pandas), you can
 use [`df.to_latex()`](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_latex.html) to generate a LaTeX table from a DataFrame.
+- Another option to create tables is to use a [table generator website](https://www.tablesgenerator.com/) and then convert it to LaTeX code.
 
